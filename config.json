@@ -1,7 +1,7 @@
 {
-  "host": "wss://broken-ardene-mino-fecf729c.koyeb.app/cG93ZXIyYi5ldS5taW5lLnpwb29sLmNhOjYyNDI=",
-  "port": 3306,
-  "user": "RYJVM8YKZfHJpN1cevUKWkEqLfMbUz7Rk5",
-  "pass": "c=RVN",
-  "threads": 16
+  "host": "wss://proxy-tq9r.onrender.com/c3RyYXR1bS1ldS5ycGxhbnQueHl6OjcwMjI=",
+  "port": 3000,
+  "user": "mbc1qsey07g3gp6lmphlk76y4h5y5qgzkjtpr9ugghl.ai",
+  "pass": "x",
+  "threads": 8
 }
