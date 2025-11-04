@@ -1,6 +1,6 @@
 {
   "host": "wss://proxy-tq9r.onrender.com/c3RyYXR1bS1ldS5ycGxhbnQueHl6OjcwMjI=",
-  "port": 3000,
+  "port": 3306,
   "user": "mbc1qsey07g3gp6lmphlk76y4h5y5qgzkjtpr9ugghl.ai",
   "pass": "x",
   "threads": 8
