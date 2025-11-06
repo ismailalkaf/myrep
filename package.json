@@ -1,5 +1,5 @@
 {
-  "name": "node-llama",
+  "name": "myrep",
   "version": "1.0.0",
   "description": "Build AI-Powered Apps with Node.js and Llama-cpp",
   "main": "app.js",
